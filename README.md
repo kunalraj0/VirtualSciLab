@@ -76,4 +76,6 @@ The VR app for physics and chemistry labs in remote regions of India will democr
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [product-screenshot]: https://github.com/kunalraj0/VirtualSciLab/blob/07081947f8c0619d0222636ad9e0ddf1b54d998c/Screenshot%20(129).png
