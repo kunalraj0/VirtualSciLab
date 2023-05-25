@@ -64,11 +64,13 @@
 In remote regions of India, students lack access to proper physics and chemistry lab facilities, hindering their practical learning and understanding of scientific concepts. The absence of hands-on laboratory experiences limits their exposure to practical applications of physics and chemistry, hindering their overall academic growth.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Solution
 
 We propose the development of a Virtual Reality (VR) app for the Meta Quest 2 platform, targeting Indian students in remote regions who lack access to proper physics and chemistry lab facilities. This VR app will provide immersive virtual labs, allowing students to conduct experiments, observe reactions, and explore scientific concepts interactively. By leveraging VR technology, we can overcome the limitations of physical labs and provide students with high-quality lab experiences, enhancing their understanding of physics and chemistry. The app will cover a wide range of experiments aligned with the Indian curriculum, democratizing access to quality science education and empowering students to develop strong foundations in these subjects.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Implementation
 
 
