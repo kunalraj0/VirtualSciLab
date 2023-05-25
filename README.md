@@ -31,6 +31,6 @@
 
 ## About The Project
 
-
+[![Graphical Representation][product-screenshot]](https://github.com/kunalraj0/VirtualSciLab/blob/07081947f8c0619d0222636ad9e0ddf1b54d998c/Screenshot%20(129).png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
