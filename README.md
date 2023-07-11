@@ -87,7 +87,7 @@ The VR app for physics and chemistry labs in remote regions of India will democr
 ## Contact
 Kunalraj Singh - [@linkedin-handle](https://www.linkedin.com/in/kunalrajsingh/) - kunalrajsingh47@gmail.com
 <br>
-Krishnan Venkiteswaran - [@linkdin-handle](https://www.linkedin.com/in/krishnan-vignesh-709aba229) - Krishnanvignesh148@gmail.com
+
 <br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
